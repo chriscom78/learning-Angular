@@ -1,0 +1,8 @@
+.box-three{
+    border: 3px; border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+    border-radius: 8px;
+    width: 450px;
+}

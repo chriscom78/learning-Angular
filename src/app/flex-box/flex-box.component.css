@@ -1,0 +1,11 @@
+.flex {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+  }
+  .flex :nth-child(1) { order: 2; }
+  .flex :nth-child(2) { order: 3; }
+  .flex :nth-child(3) { order: 1; }
